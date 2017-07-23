@@ -66,5 +66,8 @@ export default {
     border-radius: 50%;
     font-size: 20px;
 }
+dl{
+    text-indent:20px;
+}
 </style>
 
